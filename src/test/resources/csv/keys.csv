@@ -1,0 +1,4 @@
+Key, Type(ID=0/CSS=1/XPATH=2), Value
+homeComponent, 0, home
+def, 1, 456
+ghi, 2, 789
